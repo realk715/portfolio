@@ -31,7 +31,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="/images/profile.jpg"
+              src="/images/profile2.jpg"
               alt="Thanadet Klinsuban"
               width="300"
               height="300"
